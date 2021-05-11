@@ -1,6 +1,6 @@
 helo chowdary and tarak
 helo nikhil
 where are u
-touch king /c/Users/CHANDU/Desktop/sai/linux
-mkdir lion /c/Users/CHANDU/Desktop/sai/linux
+touch king > /c/Users/CHANDU/Desktop/sai/linux
+mkdir lion > /c/Users/CHANDU/Desktop/sai/linux
 
